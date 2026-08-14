@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "itachi.4urx",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "play in this good server SLAYERS-MC.aternos.me:49791!",
+        "play in this server SLAYERS-MC.aternos.me:49791!",
         "Follow me on instagram itachi.4urx"
       ]
     },
