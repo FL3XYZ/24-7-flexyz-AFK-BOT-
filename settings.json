@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SLAYERS-MC.aternos.me",
-    "port": 49791,
+    "ip": "assalutsmp.puxelforge.gg",
+    "port": 25575,
     "version": "1.20.1",
     "try-creative": false
   },
