@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "assalutsmp.puxelforge.gg",
+    "ip": "assalutsmp.pixelforge.gg",
     "port": 25575,
     "version": "1.20.1",
     "try-creative": false
