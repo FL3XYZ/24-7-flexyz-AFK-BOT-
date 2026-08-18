@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "assalutsmp.pixelforge.gg",
-    "port": 26184,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
